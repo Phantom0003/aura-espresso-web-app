@@ -1,0 +1,6 @@
+{
+  "name": "Aura Espresso Bar",
+  "description": "Experience perfection in every sip. Modern high-end landing page and artisanal ordering experience for Aura Espresso Bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
